@@ -48,6 +48,7 @@ cube *:before {
 
 back {
   transform: rotateX(180deg) translateZ(10em);
+  /* 10 */
 }
 
 bottom {
